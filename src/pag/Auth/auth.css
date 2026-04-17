@@ -1,0 +1,10 @@
+
+
+
+.log{
+    background-image: url(../../../public/images/bg-auth.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    height: 100vh;
+}
